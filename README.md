@@ -48,9 +48,7 @@ Based on the dashboard’s visualization, the following insights and recommendat
 
 Here is a visual representation of the final dashboard:
 
-![IMDb Dashboard](imdb_dashboard_snapshot.png)
-
-*Disclaimer: All data and insights are based on a fictional dataset for demonstration purposes.*
+![IMDb Dashboard](https://github.com/Esraa-MOhamed7/IMDB_Movies_PowerBI_Dashboard/blob/main/IMDB_Dashboard.png)
 
 
 
